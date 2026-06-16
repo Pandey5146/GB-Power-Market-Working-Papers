@@ -12,7 +12,7 @@ The main argument is that extreme prices are not usually caused by one single fa
 
 ## Full paper
 
-The PDF will be available in the `/paper` folder.
+📄 [Read the full working paper](paper/GB_Power_Market_Extreme_Price_Regimes_2023_2025_Working_Paper_v1.pdf)
 
 ## Disclaimer
 
